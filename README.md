@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at (In Progress...) [https://www.eliseedjapa.com/](https://www.eliseedjapa.com/)
 
-- 💬 Ask me about **Python, running, Movies**
+- 💬 Ask me about **Python, Running, Movies, Travelling**
 
 - 📫 How to reach me **eliseedjapa@gmail.com**
 
