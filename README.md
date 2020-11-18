@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently **a Junior at Morgan State University, majoring in computer science. Some of my course work include: Data Science, Machine Learning, Software Development, and Product management**
 
-- 🖥️ Currently working on [[https://www.eliseedjapa.com/](https://www.eliseedjapa.com/)]([https://www.eliseedjapa.com/](https://www.eliseedjapa.com/)
+- 🖥️ Currently working on [https://github.com/https-github-com-elisee10/FindMyRecipe](https://github.com/https-github-com-elisee10/FindMyRecipe)
 
 - 👨‍💻 All of my projects are available at (In Progress...) [https://www.eliseedjapa.com/](https://www.eliseedjapa.com/)
 
