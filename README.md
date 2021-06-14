@@ -9,7 +9,7 @@
 
 - 🖥️ Currently working on [https://github.com/https-github-com-elisee10/FindMyRecipe](https://github.com/https-github-com-elisee10/FindMyRecipe)
 
-- 👨‍💻 All of my projects are available at (In Progress...) [https://www.eliseedjapa.com/](https://www.eliseedjapa.com/)
+- 👨‍💻 Portofolio (Depreciated) [https://www.eliseedjapa.com/](https://www.eliseedjapa.com/)
 
 - 💬 Ask me about **Python, Running, Movies, Travelling**
 
