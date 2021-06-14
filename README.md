@@ -15,9 +15,12 @@
 
 - 📫 How to reach me **eliseedjapa@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me via my socials:</h3>
+
 <p align="left">
+  
 <a href="https://twitter.com/elisee_djapa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="elisee_djapa" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/elisée-djapa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="elisée-djapa" height="30" width="40" /></a>
 <a href="https://instagram.com/elisee_d1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="elisee_d1" height="30" width="40" /></a>
 </p>
