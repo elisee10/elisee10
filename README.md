@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Fairbytes](https://www.fairbytes.org/)
 
-- 🌱 I am a **Current Senior at Morgan State University**
+- 🌱 I am a **Masters Student @Johns Hopkins University**
 
-- 💬 Ask me about **Python, Running, Movies, and Food!**
+- 💬 Ask me about **Tech, Running, Movies, and Food!**
 
 - 📫 How to reach me **eliseedjapa@gmail.com**
 
