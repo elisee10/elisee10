@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisee10&label=Profile%20views&color=0e75b6&style=flat" alt="elisee10" /> </p>
 
-- 🔭 I’m currently working on [Fairbytes](https://www.fairbytes.org/)
+- 🔭 I’m currently working with [NIST (Retrieval Group)](https://www.nist.gov/itl/iad/retrieval-group)
 
 - 🌱 I am a **Masters Student @Johns Hopkins University**
 
