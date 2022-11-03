@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with [NIST (Retrieval Group)](https://www.nist.gov/itl/iad/retrieval-group)
 
-- 🌱 I am a **Graduate Student @Johns Hopkins University**
+- 🌱 I am a **Graduate Student (Master) @Johns Hopkins University**
 
 - 💬 Ask me about **Tech, Running, Movies, and Food!**
 
