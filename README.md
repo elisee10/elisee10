@@ -9,6 +9,5 @@
 
 - 💬 Ask me about **Tech, Running, Movies, and Food!**
 
-- 📫 How to reach me **eliseedjapa@gmail.com**
 
 </p>
