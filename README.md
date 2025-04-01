@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elisee10&label=Profile%20views&color=0e75b6&style=flat" alt="elisee10" /> </p>
 
-- 🔭 I’m currently working with [NIST (Retrieval Group)](https://www.nist.gov/itl/iad/retrieval-group)
+- 🔭 I’m currently on some personal fun project**
 
-- 🌱 I am a **Graduate Student (Master) @Johns Hopkins University**
 
 - 💬 Ask me about **Tech, Running, Movies, and Food!**
 
